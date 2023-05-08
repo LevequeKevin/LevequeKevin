@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=nayrofr&show_icons=true&theme=slateorange&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)  -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=NayroFr&theme=slateorange&hide_border=true&border_radius=5&locale=fr&date_format=j%20M%5B%20Y%5D"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayroFr&theme=slateorange&hide_border=true&border_radius=5" /></p>
