@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7BA3D&center=true&multiline=true&random=false&width=500&height=60&lines=Welcome+to+my+page!;I'm+Keivn+Fullstack+developer+from+France)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F7BA3D&center=true&multiline=true&repeat=false&random=false&width=500&height=60&lines=Welcome+to+my+page!;I'm+Kevin+Fullstack+developer+from+France)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
